@@ -6,5 +6,9 @@ while i < 10:
     i += 1
 for index in range(0, 100):
     sum += index
+# TODO hi is my first todo in vs code
+# FIXME wow!
+# TODO vdgf
+# // TODO
 print(f"сумма = {sum}")
 print("end")
