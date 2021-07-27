@@ -6,9 +6,12 @@ while i < 10:
     i += 1
 for index in range(0, 100):
     sum += index
-# TODO: vdgf
-# // TODO:
+    # TODO: строка 1
+    #   строка 2
+        # TODO:
 print(f"сумма = {sum}")
 print("end")
 
-# NOTE 
+# NOTE
+# FIXME
+# FIXME
