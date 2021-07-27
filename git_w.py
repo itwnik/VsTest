@@ -1,3 +1,5 @@
+
+
 print(f"hi world")
 i = 0
 sum = 0
@@ -12,6 +14,6 @@ for index in range(0, 100):
 print(f"сумма = {sum}")
 print("end")
 
-# NOTE
+# NOTE CHO-TO
 # FIXME
 # FIXME Test
